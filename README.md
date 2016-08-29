@@ -1,4 +1,4 @@
-## RunRun
+# RunRun
 A android app of calculating the number of steps.
 
 ## Introdution
